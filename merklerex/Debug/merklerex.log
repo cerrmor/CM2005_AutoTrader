@@ -1,0 +1,19 @@
+﻿  CSVReader.cpp
+D:\Garrison School\3rd Semester\ObjectOrientedPrograming\Projects\beforeMidterm\MidtermProject\merklerex\merklerex\merklerex\CSVReader.cpp(25,42): warning C4101: 'e': unreferenced local variable
+D:\Garrison School\3rd Semester\ObjectOrientedPrograming\Projects\beforeMidterm\MidtermProject\merklerex\merklerex\merklerex\CSVReader.cpp(68,34): warning C4101: 'e': unreferenced local variable
+D:\Garrison School\3rd Semester\ObjectOrientedPrograming\Projects\beforeMidterm\MidtermProject\merklerex\merklerex\merklerex\CSVReader.cpp(97,34): warning C4101: 'e': unreferenced local variable
+  MerkelMain.cpp
+D:\Garrison School\3rd Semester\ObjectOrientedPrograming\Projects\beforeMidterm\MidtermProject\merklerex\merklerex\merklerex\MerkelMain.cpp(155,38): warning C4101: 'e': unreferenced local variable
+D:\Garrison School\3rd Semester\ObjectOrientedPrograming\Projects\beforeMidterm\MidtermProject\merklerex\merklerex\merklerex\MerkelMain.cpp(197,38): warning C4101: 'e': unreferenced local variable
+D:\Garrison School\3rd Semester\ObjectOrientedPrograming\Projects\beforeMidterm\MidtermProject\merklerex\merklerex\merklerex\MerkelMain.cpp(271,34): warning C4101: 'e': unreferenced local variable
+  OrderBook.cpp
+  OrderBookEntry.cpp
+  main.cpp
+  AutoTrader.cpp
+D:\Garrison School\3rd Semester\ObjectOrientedPrograming\Projects\beforeMidterm\MidtermProject\merklerex\merklerex\merklerex\AutoTrader.cpp(59,38): warning C4101: 'e': unreferenced local variable
+D:\Garrison School\3rd Semester\ObjectOrientedPrograming\Projects\beforeMidterm\MidtermProject\merklerex\merklerex\merklerex\AutoTrader.cpp(103,38): warning C4101: 'e': unreferenced local variable
+  Wallet.cpp
+D:\Garrison School\3rd Semester\ObjectOrientedPrograming\Projects\beforeMidterm\MidtermProject\merklerex\merklerex\merklerex\Wallet.cpp(30,9): warning C4101: 'balance': unreferenced local variable
+D:\Garrison School\3rd Semester\ObjectOrientedPrograming\Projects\beforeMidterm\MidtermProject\merklerex\merklerex\merklerex\Wallet.cpp(147,32): warning C4101: 'e': unreferenced local variable
+  Generating Code...
+  merklerex.vcxproj -> D:\Garrison School\3rd Semester\ObjectOrientedPrograming\Projects\beforeMidterm\MidtermProject\merklerex\merklerex\Debug\merklerex.exe
